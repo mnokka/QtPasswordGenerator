@@ -37,7 +37,7 @@ else()
     else()
         add_executable(QtPasswordGenerator
             ${PROJECT_SOURCES}
-            README.MD
+
         )
     endif()
 endif()
